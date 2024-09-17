@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    /* color: rgb(196, 61, 61); */
+    /* background: red; */
+}
+.class{
+    /* background: #000; */
+}
+#id{
+    /* background: rgb(44, 138, 141); */
+}
+
+div > h4{
+    color: green;
+    background: rgb(39, 193, 240);
+}
+
+a:link{
+    color: rgb(255, 0, 0);
+}
+a:visited{
+    color: rgb(0, 0, 0);
+}
+a:active{
+    background: green;
+}
